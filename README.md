@@ -2,7 +2,7 @@
 
 **TalentBoard** is a modern tech jobs marketplace built as a technical assessment project. It connects job seekers with companies across India through searchable listings, detailed job pages, and an employer posting flow.
 
-**Live demo:** _Add your Vercel URL after deployment_
+**Live demo:** [https://g2c-tau.vercel.app](https://g2c-tau.vercel.app)
 
 ---
 
@@ -50,7 +50,7 @@
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/g2c.git
+git clone https://github.com/kevincostner17/g2c.git
 cd g2c
 npm install
 ```
@@ -175,7 +175,7 @@ The GitHub Actions workflow (`.github/workflows/ci-cd.yml`) runs on every push a
 ### Step 1: Create a GitHub repository
 
 ```bash
-git remote add origin https://github.com/YOUR_USERNAME/g2c.git
+git remote add origin https://github.com/kevincostner17/g2c.git
 git push -u origin main
 ```
 
